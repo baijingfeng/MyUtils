@@ -12,6 +12,6 @@
   "bracketSpacing": true,
 
   "jsxBracketSameLine": false,
-  "arrowParens": "always",
+  "arrowParens": "avoid",
   "printWidth": 150
 }
