@@ -18,6 +18,7 @@ const rateObj = {
   'rate-0.00045': getRealRate(0.00045, 'day'),
   'rate-0.0005': getRealRate(0.0005, 'day'),
   'rate-0.0006': getRealRate(0.0006, 'day'),
+  'rate-0.056': getRealRate(0.056, 'year')
 }
 
-console.log('rateObj', rateObj) 
+console.log('rateObj', rateObj)
